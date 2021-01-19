@@ -1,4 +1,4 @@
 # Recriando a interface do Netflix
 
-Projeto desenvolvido durante o bootcamp React Web Developer, da Digital Innovation One.
+Projeto desenvolvido durante o bootcamp html develop, da Digital Innovation One.
 
